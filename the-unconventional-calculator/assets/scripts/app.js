@@ -1,5 +1,5 @@
 const defaultResult = 0;
-let currentResult = defaultResult;
+let currentResult;
 
 function add(num1, num2) {
     const result = num1 + num2;
